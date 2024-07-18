@@ -1,4 +1,4 @@
-# Stock-Price-Prediction-
+# Stock-Price-Prediction
 
 # Project Description: Advanced Machine Learning Models for Time Series Forecasting of Stock Prices
 
