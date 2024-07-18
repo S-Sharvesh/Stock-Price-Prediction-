@@ -28,6 +28,15 @@ RMSE (Root Mean Square Error): A standard metric for measuring the accuracy of p
 Detailed Plots: Visualization of model predictions against actual stock prices over time, which provided clear insights into the models' performance and reliability.
 By implementing these advanced machine learning models and robust preprocessing and evaluation techniques, I achieved significant improvements in the accuracy and reliability of stock price forecasts. This project demonstrates the potential of machine learning in financial time series forecasting and provides a solid foundation for further enhancements and applications in the field.
 
-# Final Result
-<img width="452" alt="image" src="https://github.com/user-attachments/assets/178e9062-0734-44d3-a9e4-f7cefd7a6c6b">
+# Final Result 
+
+# LSTM
+<img width="408" alt="image" src="https://github.com/user-attachments/assets/afd41c23-85b7-44c0-99d0-77df75a39552">
+
+# XG-Boost
+<img width="452" alt="image" src="https://github.com/user-attachments/assets/86997036-5e7f-4ca6-9945-35f2ec4bcef7">
+
+# W-GAN
+<img width="452" alt="image" src="https://github.com/user-attachments/assets/72fe858a-d595-4fa7-a83f-02b2efe2aff3">
+
 
