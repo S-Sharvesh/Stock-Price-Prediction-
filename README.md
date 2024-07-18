@@ -27,3 +27,7 @@ Model Evaluation and Visualization
 RMSE (Root Mean Square Error): A standard metric for measuring the accuracy of predictions by comparing the predicted values with the actual stock prices.
 Detailed Plots: Visualization of model predictions against actual stock prices over time, which provided clear insights into the models' performance and reliability.
 By implementing these advanced machine learning models and robust preprocessing and evaluation techniques, I achieved significant improvements in the accuracy and reliability of stock price forecasts. This project demonstrates the potential of machine learning in financial time series forecasting and provides a solid foundation for further enhancements and applications in the field.
+
+# Final Result
+<img width="452" alt="image" src="https://github.com/user-attachments/assets/178e9062-0734-44d3-a9e4-f7cefd7a6c6b">
+
